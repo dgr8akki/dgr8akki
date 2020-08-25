@@ -1,6 +1,6 @@
 # Hi there 👋, Welcome to my Github Profile
 
-Go and check https://www.aakashpahuja.com
+Go and check https://www.aakashpahuja.com.
 
 <!--
 **dgr8akki/dgr8akki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
