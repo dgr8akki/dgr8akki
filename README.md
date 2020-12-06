@@ -10,7 +10,7 @@ Go and check https://www.aakashpahuja.com.
 # Contact Me 📫
 <a href="mailto:pahujaaakash5@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" alt="pahujaaakash5@gmail.com" height="20" width="20" /> [Email](mailto:pahujaaakash5@gmail.com)
 
-<a href="https://www.linkedin.com/in/dgr8akki/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dgr8akki" height="20" width="20" /> [LinkedIn](https://www.linkedin.com/in/dgr8akki/)
+<a href="https://www.linkedin.com/in/dgr8akki/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="dgr8akki" height="20" width="20" /> [LinkedIn](https://www.linkedin.com/in/dgr8akki/)
 
 <a href="https://twitter.com/ImAakashPahuja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ImAakashPahuja" height="20" width="20" />  [Twitter](https://twitter.com/ImAakashPahuja)
   
