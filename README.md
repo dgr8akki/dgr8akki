@@ -12,7 +12,7 @@ Go and check https://www.aakashpahuja.com.
 
 <a href="https://www.linkedin.com/in/dgr8akki/" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="dgr8akki" height="20" width="20" /> [LinkedIn](https://www.linkedin.com/in/dgr8akki/)
 
-<a href="https://twitter.com/ImAakashPahuja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ImAakashPahuja" height="20" width="20" />  [Twitter](https://twitter.com/ImAakashPahuja)
+<a href="https://twitter.com/ImAakashPahuja" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="ImAakashPahuja" height="20" width="20" />  [Twitter](https://twitter.com/ImAakashPahuja)
   
 # ⚡ Quote ⚡: 
 __*"What I can't create, I don't understand"*__ - R.Feynman  
