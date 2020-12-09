@@ -8,6 +8,12 @@
 ![Dgr8akki's github stats](https://github-readme-stats.vercel.app/api?username=dgr8akki&show_icons=true&theme=gotham&hide=issues,stars&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgr8akki&layout=compact)](https://github.com/dgr8akki/github-readme-stats)
 
+# Looking to Collaborate on 👯
+I’m looking to collaborate on Almost anything related to ML and beyond. Always looking for great opportunities and Ideas  
+
+# Ask me 💬
+Ask me about Machine Learning, Deep Learning, Image Processing and Computer Vision
+
 # Contact Me 📫
 <a href="mailto:pahujaaakash5@gmail.com" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg" alt="pahujaaakash5@gmail.com" height="20" width="20" /> [Email](mailto:pahujaaakash5@gmail.com)
 
