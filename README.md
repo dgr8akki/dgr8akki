@@ -2,6 +2,8 @@
 
 #### Go and check https://www.aakashpahuja.com.
 
+<a href="https://app.daily.dev/dgr8akki"><img src="https://github.com/dgr8akki/dgr8akki/blob/master/devcard.svg" width="400" alt="Aakash's Dev Card"/></a>
+
 # Stats
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dgr8akki" alt="dgr8akki" /> </p>
 
