@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aakash Pahuja</h1>
-<h3 align="center">A passionate Full-stack Engineer from India, Living in Dublin</h3>
+<h3 align="center">A passionate Senior Engineer from India, Living in Dublin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgr8akki&label=Profile%20views&color=0e75b6&style=flat" alt="dgr8akki" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.aakashpahuja.com/](https://www.aakashpahuja.com/)
 
-- 📝 I regularly write articles on [common frontend problems and their solutions](common frontend problems and their solutions)
+- 📝 I regularly write articles on common frontend problems and their solutions.
 
 - 💬 Ask me about **react, redux, vue and react-native**
 
