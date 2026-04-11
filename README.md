@@ -1,62 +1,220 @@
 
-<h1 align="center">Hi 👋, I'm Aakash Pahuja</h1>
-<h3 align="center">A passionate Senior Engineer from India, Living in Dublin</h3>
+<!-- Header -->
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Aakash+Pahuja;Senior+Engineer+%40+Squarespace;AI+Agent+Builder;Skill+Crafter+%7C+n8n+Wizard;Dublin%2C+Ireland+%F0%9F%87%AE%F0%9F%87%AA" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dgr8akki&label=Profile%20views&color=0e75b6&style=flat" alt="dgr8akki" /> </p>
+<!--  ASCII Art -->
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgr8akki" alt="dgr8akki" /></a> </p>
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@                                                                   @@
+@@       _____   _____   _____   _____         _   _  _   _  _      @@
+@@      |  _  | |  _  | |  _  | |  _  |  ___  | | | || | | || |     @@
+@@      | |_| | | |_| | | | | | | |_| | / __| | |_| || |_| ||_|     @@
+@@      |  _  | |  _  | | |_| | |  ___| \__ \ |  _  ||_   _| _      @@
+@@      |_| |_| |_| |_| |_____| |_|     |___/ |_| |_|  |_|  |_|     @@
+@@                                                                   @@
+@@    "Automate everything. Build agents. Ship fast. Stay calm."     @@
+@@                                                                   @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
 
-<p align="left"> <a href="https://twitter.com/imaakashpahuja" target="blank"><img src="https://img.shields.io/twitter/follow/imaakashpahuja?logo=twitter&style=for-the-badge" alt="imaakashpahuja" /></a> </p>
+</div>
 
-- 🌱 I’m currently learning **Web3**
+<!-- About Me -->
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 👨‍💻 All of my projects are available at [https://www.aakashpahuja.com/](https://www.aakashpahuja.com/)
+### `> whoami`
 
-- 📝 I regularly write articles on common frontend problems and their solutions.
+```javascript
+const aakash = {
+    location: "Dublin, Ireland 🇮🇪",
+    from: "India 🇮🇳",
+    role: "Senior Software Engineer @ Squarespace",
+    building: [
+        "AI Agents",
+        "Claude Code Skills",
+        "n8n Workflows",
+        "Automation Pipelines"
+    ],
+    askMeAbout: [
+        "react", "ai-agents", "n8n",
+        "automation", "claude-code"
+    ],
+    dailyStack: {
+        ai: ["Claude", "OpenAI", "LangChain", "n8n"],
+        frontend: ["React", "Vue", "Next.js", "TypeScript"],
+        backend: ["Node.js", "NestJS", "PostgreSQL", "Redis"],
+        devops: ["Docker", "AWS", "GCP", "Jenkins"]
+    },
+    funFact: "Don't be serious, stay happy, stay calm. 🧘"
+};
+```
 
-- 💬 Ask me about **react, redux, vue and react-native**
+<br clear="both">
 
-- 📫 How to reach me **pahujaaakash5@gmail.com**
+---
 
-- 📄 Know about my experiences [https://dgr8akki.github.io/resume/AakashPahujaResume.pdf](https://dgr8akki.github.io/resume/AakashPahujaResume.pdf)
+<!-- npx card -->
+<div align="center">
 
-- ⚡ Fun fact **Don't be serious, stay happy, stay calm.**
+### `> npx aakash`
 
-### Blogs posts
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│          Aakash Pahuja / dgr8akki                       │
+│                                                         │
+│      Work:  Senior Software Engineer @ Squarespace      │
+│       Web:  https://www.aakashpahuja.com                │
+│   Dev.to:  https://dev.to/dgr8akki                      │
+│  LinkedIn:  https://linkedin.com/in/dgr8akki            │
+│                                                         │
+│      Card:  npx aakash                                  │
+│                                                         │
+│  Currently automating everything with AI agents,        │
+│  building skills for Claude Code, and wiring up          │
+│  n8n workflows that make life easier.                    │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+<!-- Tech Stack -->
+<details>
+<summary><h3>🛠️ Tech Arsenal (click to expand)</h3></summary>
+<br>
+
+**AI & Automation**
+
+![n8n](https://img.shields.io/badge/-n8n-000?style=flat&logo=n8n&logoColor=EA4B71)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=flat&logo=openai)
+![LangChain](https://img.shields.io/badge/-LangChain-000?style=flat&logo=chainlink)
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk&logoColor=ED8B00)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vue.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![React Native](https://img.shields.io/badge/-React%20Native-000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000?style=flat&logo=redux&logoColor=764ABC)
+![Sass](https://img.shields.io/badge/-Sass-000?style=flat&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3&logoColor=1572B6)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-000?style=flat&logo=nestjs&logoColor=E0234E)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql&logoColor=4479A1)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonwebservices&logoColor=FF9900)
+![GCP](https://img.shields.io/badge/-GCP-000?style=flat&logo=googlecloud)
+![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat&logo=nginx&logoColor=009639)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=flat&logo=jenkins)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
+
+**Testing & Tools**
+
+![Jest](https://img.shields.io/badge/-Jest-000?style=flat&logo=jest&logoColor=C21325)
+![Selenium](https://img.shields.io/badge/-Selenium-000?style=flat&logo=selenium)
+![Webpack](https://img.shields.io/badge/-Webpack-000?style=flat&logo=webpack)
+![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-000?style=flat&logo=elasticsearch)
+
+</details>
+
+---
+
+<!-- Blog Posts -->
+### 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://dev.to/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://twitter.com/imaakashpahuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imaakashpahuja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://codesandbox.com/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://kaggle.com/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://fb.com/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://instagram.com/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://dribbble.com/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://www.behance.net/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://hashnode.com/@dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dgr8akki" height="30" width="40" /></a>
-<a href="https://medium.com/@dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dgr8akki" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/dgr8akki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dgr8akki" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="dgr8akki" height="30" width="40" /></a>
-<a href="/dgr8akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="dgr8akki" height="30" width="40" /></a>
-</p>
+➡️ [more posts...](https://www.aakashpahuja.com/blog)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgr8akki&show_icons=true&locale=en&layout=compact" alt="dgr8akki" /></p>
+<!-- GitHub Stats -->
+<div align="center">
+<h3>📊 GitHub Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgr8akki&show_icons=true&locale=en" alt="dgr8akki" /></p>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=dgr8akki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="dgr8akki's GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgr8akki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgr8akki&" alt="dgr8akki" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dgr8akki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+[![Aakash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dgr8akki&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/dgr8akki)
+
+</div>
+
+---
+
+<!-- Connect -->
+<div align="center">
+<h3>🔗 Connect with me</h3>
+
+[![Website](https://img.shields.io/badge/-aakashpahuja.com-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.aakashpahuja.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/dgr8akki)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dgr8akki)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://www.leetcode.com/dgr8akki)
+[![Facebook](https://img.shields.io/badge/-Facebook-000?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://fb.com/dgr8akki)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/dgr8akki)
+
+</div>
+
+---
+
+<!-- Retro Footer -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Best viewed in IE" height="35" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="No Frames" height="30" />
+
+<br><br>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=dgr8akki&label=Profile%20views&color=36BCF7&style=flat)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=80&section=footer" width="100%" />
+
+</div>
