@@ -8,25 +8,6 @@
   </a>
 </div>
 
-<!--  ASCII Art -->
-<div align="center">
-
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@                                                                   @@
-@@       _____   _____   _____   _____         _   _  _   _  _      @@
-@@      |  _  | |  _  | |  _  | |  _  |  ___  | | | || | | || |     @@
-@@      | |_| | | |_| | | | | | | |_| | / __| | |_| || |_| ||_|     @@
-@@      |  _  | |  _  | | |_| | |  ___| \__ \ |  _  ||_   _| _      @@
-@@      |_| |_| |_| |_| |_____| |_|     |___/ |_| |_|  |_|  |_|     @@
-@@                                                                   @@
-@@    "Automate everything. Build agents. Ship fast. Stay calm."     @@
-@@                                                                   @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</div>
-
 <!-- About Me -->
 <img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -64,26 +45,15 @@ const aakash = {
 <!-- npx card -->
 <div align="center">
 
-### `> npx aakash`
+### `> npx dgr8akki`
 
+👇 Hit this in your console or terminal to connect with me.
+
+```bash
+npx dgr8akki
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│          Aakash Pahuja / dgr8akki                       │
-│                                                         │
-│      Work:  Senior Software Engineer @ Squarespace      │
-│       Web:  https://www.aakashpahuja.com                │
-│   Dev.to:  https://dev.to/dgr8akki                      │
-│  LinkedIn:  https://linkedin.com/in/dgr8akki            │
-│                                                         │
-│      Card:  npx aakash                                  │
-│                                                         │
-│  Currently automating everything with AI agents,        │
-│  building skills for Claude Code, and wiring up          │
-│  n8n workflows that make life easier.                    │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
+
+**👆 This command line tool can be found at [npx dgr8akki](https://github.com/dgr8akki/npx-dgr8akki)**
 
 </div>
 
