@@ -124,6 +124,7 @@ npx dgr8akki
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Macbook Pro Keyboard with Touchbar with HTML/CSS](https://dev.to/dgr8akki/macbook-pro-keyboard-with-touchbar-with-htmlcss-l93)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more posts...](https://www.aakashpahuja.com/blog)
